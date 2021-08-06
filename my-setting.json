@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 22,
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "Source Code Pro",
+    "debug.console.fontFamily": "Source Code Pro",
+    "debug.console.fontSize": 22,
+    "terminal.integrated.fontSize": 22,
+    "terminal.integrated.fontWeight": "600"
+}
